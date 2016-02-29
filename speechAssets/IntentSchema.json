@@ -1,0 +1,10 @@
+{
+  "intents": [
+    {
+      "intent": "GetPowerballIntent"
+    },
+    {
+      "intent": "AMAZON.HelpIntent"
+    }
+  ]
+}
